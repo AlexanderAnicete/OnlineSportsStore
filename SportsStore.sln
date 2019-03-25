@@ -8,7 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "SportsStore.WebUI\SportsStore.WebUI.csproj", "{FAACA3F5-892E-4739-B6D8-9EEDC7E0BE76}"
 	ProjectSection(ProjectDependencies) = postProject
 		{1A703336-83F4-4770-9FB4-DA6C21374586} = {1A703336-83F4-4770-9FB4-DA6C21374586}
-		{C84686D8-C832-4842-8A76-53AF2656D2E5} = {C84686D8-C832-4842-8A76-53AF2656D2E5}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{C84686D8-C832-4842-8A76-53AF2656D2E5}"
